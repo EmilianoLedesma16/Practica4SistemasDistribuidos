@@ -1,0 +1,3 @@
+start cmd /k "cd /d C:\Users\emili\OneDrive\Documentos\ESCOM\OCTAVO_SEMESTRE\SistemasDistribuidos\Practica4\Practica4"
+start cmd /k "cd /d C:\Users\emili\OneDrive\Documentos\ESCOM\OCTAVO_SEMESTRE\SistemasDistribuidos\Practica4\Practica4"
+start cmd /k "cd /d C:\Users\emili\OneDrive\Documentos\ESCOM\OCTAVO_SEMESTRE\SistemasDistribuidos\Practica4\Practica4"
